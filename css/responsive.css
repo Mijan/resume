@@ -17,12 +17,12 @@
 	.info_content.over .s5.curr { height: 701px }
 	.info_content .s5 { height: 75px }
 	.info_content.over .s4.curr { padding-top: 95px; height:606px }
-	.info_content .s4 { height: 188px }
-	.info_content.over .s3.curr { padding-top: 303px; height: 396px }
+	.info_content .s4 { height: 190px }
+	.info_content.over .s3.curr { padding-top: 305px; height: 396px }
 	.info_content .s3 { height: 94px }
-	.info_content.over .s2.curr { padding-top: 417px; height: 285px }
+	.info_content.over .s2.curr { padding-top: 419px; height: 285px }
 	.info_content .s2 { height: 150px }
-	.info_content.over .s1.curr { padding-top: 587px; height: 112px }
+	.info_content.over .s1.curr { padding-top: 589px; height: 112px }
 	.info_content .s1 { height: 92px }
 	.info_content ul li .btn_go { height: 30px; line-height: 30px; padding: 0 5px 0 10px; position: absolute; right: 10px; top: 5px; font-weight: normal; display: none; }
 	.info_content ul li:hover .btn_go { display: block; }
