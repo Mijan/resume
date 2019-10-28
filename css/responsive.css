@@ -88,7 +88,7 @@
 	.skills_left { float: left; margin: 0; }
 
 /* 799 */
-@media only screen and (max-width: 1200px){	
+/*@media only screen and (max-width: 1200px){	
 
 	.main { width: 100%; }
 	.avatar { float: none; margin: 0 auto; }
@@ -118,16 +118,16 @@
 	.button_print { display: none; }
 	.button_home { display: none; }
 
-}
+}/*
 
 
 /* 800-1023 nav */
-/*@media only screen and (min-width: 800px) and (max-width: 1199px){
+@media only screen and (min-width: 800px) and (max-width: 1199px){
 
 	.main { width: 100%; }
 	.info_timeline dl { margin-bottom: 10px; }
 	.descprition { width: 740px; }
 	.descprition p img { max-width: 740px; }
 	
-}*/
+}
 
