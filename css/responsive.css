@@ -90,7 +90,7 @@
 /* 799 */
 @media only screen and (max-width: 1200px){	
 
-	/*.main { width: 100%; }
+	.main { width: 100%; }
 	.avatar { float: none; margin: 0 auto; }
 	.base,.info_left,.info_right { float: none; }
 	.info_left,.info_right { width: 100%; }
@@ -108,7 +108,7 @@
 	.info_content.over .desc { height: auto; margin-bottom: 20px; }
 	.info_content.over .s5.curr, .info_content.over .s4.curr, .info_content.over .s3.curr, .info_content.over .s2.curr, .info_content.over .s1.curr { padding-top: 0; height: auto; }
 	.info_content ul li .btn_go { display: block; position: relative; right: 0; top: 0; width: 80%; margin: -12px 0 30px 26px; }*/
-	.info_content .s5 .s4 .s3 .s2 .s1 { height: 500px; }
+	/*.info_content .s5 .s4 .s3 .s2 .s1 { height: 500px; }
 	/*.descprition { width: 94%; }
 	.descprition p img { max-width: 100%; }
 	.sound_help { width: 96%; padding: 2%; margin-left: -50%; height: 350px; }
@@ -128,7 +128,6 @@
 	.info_timeline dl { margin-bottom: 10px; }
 	.descprition { width: 740px; }
 	.descprition p img { max-width: 740px; }
-	.info_content .s5 .s4 .s3 .s2 .s1 { height: 500px; }
 	
 }*/
 
