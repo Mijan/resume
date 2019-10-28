@@ -115,7 +115,7 @@
 
 
 	/* display none */
-	/*.button_print { display: none; }
+	.button_print { display: none; }
 	.button_home { display: none; }
 
 }
