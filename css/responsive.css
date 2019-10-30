@@ -23,11 +23,11 @@
 	.info_content.over .s2.curr { padding-top: 419px; height: 285px }
 	.info_content .s2 { height: 150px }
 	.info_content.over .s1.curr { padding-top: 589px; height: 112px }
-	.info_content .s1 { height: 92px }
+	.info_content .s1 { height: 72px }
 	.info_content ul li .btn_go { height: 30px; line-height: 30px; padding: 0 5px 0 10px; position: absolute; right: 10px; top: 5px; font-weight: normal; display: none; }
 	.info_content ul li:hover .btn_go { display: block; }
 	.main_info{ height: 850px; display: block:}
-	/*.info_content{height: 701px; display:block}*/
+	
 
 	.descprition { width: 800px; margin: 0 auto; padding: 3% 0; }
 	.descprition p img { max-width: 800px; }

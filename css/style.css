@@ -122,13 +122,13 @@ p.base_desc { color: #595959; padding: 0 0 0 0;}
 .information {width: 100%; }
 .info_content p { line-height: 22px; margin-bottom: 20px; overflow: hidden; }
 .info_content p em { margin: 0 5px; }
-.info_content ul li { list-style: none; overflow: hidden; position: relative; }
-.info_content ul li h3 { font-size: 12px; color: #333; line-height: 25px; }
+/*.info_content ul li {  overflow: hidden; position: relative; }*/
+.info_content ul li { color: #333; line-height: 25px; margin-bottom:10px}
+.info_content h3 { font-size: 12px; color: #333; line-height: 15px; }
 .info_content ul li:hover h3 { color: #109d59; }
 .info_content ul li h3 i { float: left; margin-right: 10px;  }
 .info_content ul li:hover h3 i { color: #109d59; }
-/*.info_content ul li h3 em { color: #999; padding-left: 10px; }*/
-.info_content ul li h3 em { color: #999; padding-left: 200px; }
+.info_content ul li h3 em { color: #999; padding-left: 10px; }
 .info_content ul li p { padding-left: 26px; color: #666; }
 .info_content ul li p i { margin-left: 5px; }
 .info_content ul li .btn_go i { float: right; font-size: 20px; }
