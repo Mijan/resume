@@ -44,6 +44,7 @@
     .skills dl dt i { float: left; margin-right: 5px; }
     .skills dl dt em { color: #ccc; margin-left: 3px; }
     .skills dl dd { float: right; line-height: 25px; }
+    /*.skills dl dd b,.skills dl dd em { border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; float: left; width: 10px; height: 10px; margin: 7px 5px 0 0; }*/
     .skills dl dd b,.skills dl dd em { border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; float: left; width: 10px; height: 10px; margin: 7px 5px 0 0; }
     .skills dl dd b { background-color: #666; }
     .skills dl dd em { background-color: #ddd; }
@@ -51,7 +52,16 @@
     .skills dt {width: 100px; }
     
     
-	
+	.point{
+        border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; float: left; width: 10px; height: 10px; margin: 7px 5px 0 0; background-color: #666;overflow: hidden;
+            }
+
+    .half_cover{
+        display: inline-block;
+        background-color: #ddd;
+        height: 10px; width:5px;
+        margin: 0px 0px 9px 5px;
+    }
     
     
 	.sills_long dl dt { width: 264px; }
